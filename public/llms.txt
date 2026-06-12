@@ -1,0 +1,66 @@
+# عالم الحيتان — Generative Engine Optimization Map
+
+> A 4th-grade school project presentation about whales, created by students Riyad Mar'i and Mohammad Ghabs. The presentation covers whale introduction, types of whales (Blue Whale, Humpback Whale, Orca), whale food, and how whales breathe. It features Arabic student names encoded with ChrW characters and aims to include cartoon whale imagery throughout the slides.
+
+---
+
+## Pages
+
+### Home
+https://-41f43880.zappy5.app
+Explore a creative 4th-grade whale presentation by Riyad Mar&#39;i and Mohammad Ghabs, built with Google Workspace for Education. Discover Blue Whales, Humpbacks, Orcas, whale diets, and breathing facts brought to life with cartoon imagery. Start your underwater learning adventure today!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-41f43880.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-41f43880.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-41f43880.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-41f43880.zappy5.app
+- Endpoint: https://-41f43880.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About عالم الحيتان
+A 4th-grade school project presentation about whales, created by students Riyad Mar'i and Mohammad Ghabs. The presentation covers whale introduction, types of whales (Blue Whale, Humpback Whale, Orca), whale food, and how whales breathe. It features Arabic student names encoded with ChrW characters and aims to include cartoon whale imagery throughout the slides.
+
+## Target Audience
+- 4th Grade Students
+- Elementary School Teachers
+- Parent Support Groups
+
+## Industry
+Education
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-41f43880.zappy5.app/sitemap.xml
+- Robots: https://-41f43880.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-41f43880.zappy5.app/llms-full.txt
